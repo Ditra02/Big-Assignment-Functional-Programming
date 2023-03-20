@@ -7,5 +7,5 @@ How to run :
    MyApp\Scripts\activate
 
 2. Run The Streamlit Website
-   cd 'The Project'
+   cd 'The Project' <br>
    streamlit run main.py
